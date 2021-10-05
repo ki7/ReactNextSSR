@@ -1,0 +1,2 @@
+# ReactNextSSR
+Created with CodeSandbox
